@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MovieRatingsTest
+comment0.text=\r\n\ Create\ a\ program\ to\ store\ and\ process\ movie\ ratings.\r\n\ Use\ a\ 2D\ array\ to\ store\ ratings\ by\ different\ reviewers\ \r\n\ for\ different\ movies.\ Each\ row\ represents\ a\ different\ movie\ \r\n\ and\ each\ column\ represents\ a\ different\ reviewer.\ \r\n\ There\ will\ also\ be\ two\ separate\ arrays\ to\ store\ the\ names\ of\ movies\r\n\ and\ the\ names\ of\ the\ reviewers.\ You\ may\ use\ the\ attached\ test\ program.\r\n\r\n\ @Brett\ Althoff\r\n\ @1.0\ 02/22/2020\r\n\ @Test\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
